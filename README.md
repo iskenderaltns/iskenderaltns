@@ -22,7 +22,7 @@
     - Topological Data Analysis (TDA) :white_check_mark:
     - Numerical Linear Algebra :white_check_mark:
     - Numerical Analysis :white_check_mark:
-  - I also completed the following courses at Galatasaray University::
+  - I also completed the following courses at Strasbourg University::
     - C++ :white_check_mark:
     - Numerical Analysis w Python :white_check_mark:
 - :baby: I'm learning Python, Sql, Unity, C#
