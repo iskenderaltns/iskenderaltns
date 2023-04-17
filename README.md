@@ -67,11 +67,11 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskenderaltns&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iskenderaltns&show_icons=true&theme=radical" alt="iskenderaltns"/></p>
 
-
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86206193/232387896-c9bfb6f7-17b7-4ed1-82f3-c8c4459e7a51.gif" width="10%" height="10%" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/86206193/232378874-2df0f279-3c8d-4b50-9aff-6bc050788fef.png" alt="pp" width="90%" height="1%" />
