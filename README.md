@@ -15,7 +15,7 @@
 </p>
 
 #### <img src="https://user-images.githubusercontent.com/86206193/232363476-3083bfdf-61a2-4525-888a-9472e0544666.gif" alt="Intro GIF" align="left" width="4%" />  &nbsp;&nbsp; About Me:
-- :pencil2: I'm a student of Galatasaray University, Department of Mathematics <img src="https://user-images.githubusercontent.com/86206193/232371252-f0d66d93-7a19-4c05-9f0c-953c46cad711.gif" alt="Intro GIF" width="3%" />
+- :pencil2: I'm a student at Galatasaray University, Department of Mathematics <img src="https://user-images.githubusercontent.com/86206193/232371252-f0d66d93-7a19-4c05-9f0c-953c46cad711.gif" alt="Intro GIF" width="3%" />
   - I have completed several courses during my time at Galatasaray University, including:
     - Python :white_check_mark:
     - NLP w ML :white_check_mark:
