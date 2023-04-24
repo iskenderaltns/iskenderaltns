@@ -73,6 +73,8 @@
   <img src="https://user-images.githubusercontent.com/86206193/232387896-c9bfb6f7-17b7-4ed1-82f3-c8c4459e7a51.gif" width="10%" height="10%" />
 </p>
 
+<p align="center" ><img src="https://komarev.com/ghpvc/?username=iskenderaltns&color=orange" alt="iskenderaltnsview"/></p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/86206193/232378874-2df0f279-3c8d-4b50-9aff-6bc050788fef.png" alt="pp" width="90%" height="1%" />
 </p>
